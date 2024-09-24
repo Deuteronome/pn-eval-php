@@ -16,8 +16,8 @@ CREATE TABLE IF NOT EXISTS events (
 )ENGINE=INNODB;
 
 INSERT INTO events (`image`, `lieu`, `description`, `difficulte`)
-    VALUES  ('../asset/image/groupPN.webp', 'E2C', 'De sombre rumeurs amènent un groupe de jeunes codeurs à se préparer au pire', 'facile'),
-            ('../asset/image/groupPN2.webp', 'E2C', 'Après une rapide préparation, ils sont prêts à en découdre', 'facile'),
+    VALUES  ('../asset/image/groupPn.webp', 'E2C', 'De sombre rumeurs amènent un groupe de jeunes codeurs à se préparer au pire', 'facile'),
+            ('../asset/image/groupPn2.webp', 'E2C', 'Après une rapide préparation, ils sont prêts à en découdre', 'facile'),
             ('../asset/image/riverCity.png', 'River City', 'Ils vont devoir quitter la cité pour s''enfoncer dans les terres sauvages', 'moyenne'),
             ('../asset/image/aubergeRelai.png', 'Marais des murmures', 'Après un long voyage, ils arrivent à une sinistre auberge', 'moyenne'),
             ('../asset/image/enterTheCrypt.webp', 'Cave de l''auberge', 'Dans la cave se cache le repère du nécromancien', 'moyenne'),

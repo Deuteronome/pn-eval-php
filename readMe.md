@@ -22,4 +22,4 @@ A faire dans l'ordre :
 
 - dans le controller list.php stocker le nom d'utilisateur récupéré via formulaire dans une variable, forcer le retour au formulaire s'il n'y a pas de nom et stocker les données du tableau events dans une variable.
 
-- Faire la vue principaledan listView.php (voir consigne dans le fichier)
+- Faire la vue principale dans listView.php (voir consigne dans le fichier)
